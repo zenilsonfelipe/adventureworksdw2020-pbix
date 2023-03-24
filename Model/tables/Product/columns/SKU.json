@@ -1,0 +1,13 @@
+{
+  "name": "SKU",
+  "dataType": "string",
+  "description": "Stock-keeping unit",
+  "sourceColumn": "SKU",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

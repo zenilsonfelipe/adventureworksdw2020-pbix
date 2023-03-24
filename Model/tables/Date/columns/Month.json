@@ -1,0 +1,13 @@
+{
+  "name": "Month",
+  "dataType": "string",
+  "sourceColumn": "Month",
+  "sortByColumn": "MonthKey",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

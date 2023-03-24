@@ -1,0 +1,13 @@
+{
+  "name": "Country-Region",
+  "dataType": "string",
+  "sourceColumn": "Country-Region",
+  "dataCategory": "County",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

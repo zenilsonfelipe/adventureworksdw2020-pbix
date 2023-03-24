@@ -1,0 +1,13 @@
+{
+  "name": "State-Province",
+  "dataType": "string",
+  "sourceColumn": "State-Province",
+  "dataCategory": "StateOrProvince",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}
